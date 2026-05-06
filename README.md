@@ -2,7 +2,7 @@
 
 I'm Christler, a fresh graduate student in Philippines.
 
-I mostly work on Frontend stuff - React, Typescirpt, Tailwind and a bit of animation with Figma.
+I mostly work on Frontend stuff - React, Typescirpt, Tailwind and a bit of animation.
 
 I'm currently learning how to use Figma to create designs when I want to sketch my ideas.
   
